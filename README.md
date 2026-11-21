@@ -4,7 +4,7 @@ Firmware release builds for [Aeris Monitor](https://github.com/creator-mine/Aeri
 
 ## Latest
 
-**v1.3.6** — <https://github.com/creator-mine/Aeris-firmware/releases/tag/v1.3.6>
+**v1.3.8** - <https://github.com/creator-mine/Aeris-firmware/releases/tag/v1.3.8>
 
 | Board | Asset |
 |-------|-------|
